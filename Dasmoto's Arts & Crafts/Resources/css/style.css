@@ -37,4 +37,5 @@ p{
 
 .brushprice, .frameprice, .paintprice{
   color: blue;
+  font-family: Helvetica;
 }
